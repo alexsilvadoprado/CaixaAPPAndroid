@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">CaixaAPPAndroid</string>
-    <string name="title_home">Início</string>
-    <string name="title_dashboard">Extrato</string>
-    <string name="title_notifications">Transações</string>
+    <string name="title_inicio">Início</string>
+    <string name="title_extrato">Extrato</string>
+    <string name="title_transacoes">Transações</string>
+    <string name="title_servicos">Serviços</string>
+    <string name="title_ajuda">Ajuda</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
